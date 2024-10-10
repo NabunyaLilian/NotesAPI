@@ -31,7 +31,7 @@ The **Notes API** is a RESTful web service that allows users to create, read, up
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/notes-api.git
+git clone https://github.com/NabunyaLilian/notes-api.git
 cd notes-api
 ```
 
